@@ -1,0 +1,137 @@
+/************************************************
+ * ROFI Color theme
+ * User: haryirfantri
+ * Copyright: 2019 haryirfantri
+ ***********************************************/
+
+* {
+	dark:				#404552;
+	darker:				#383C4A;
+	darkest:			#181920;
+	bg:					#919191;
+	red:				#FD7980;
+	blue:				#1A748F;
+	tx:					#ffffff;
+	tx2:				#1F252A;
+	line:				#cecece;
+	font:				"Open Sans 10";
+}
+
+#window {
+	background-color:	@darker;
+	border:				0;
+	padding:			0;
+	width:				23%;
+	height:				100%;
+}
+
+#mainbox {
+    background-color:	@darker;
+    border:  			0;
+    padding: 			0;
+    children:			[inputbar, message, listview, mode-switcher];
+}
+
+#inputbar {
+	background-color:	@bg;
+	margin:				20;
+	border:				0;
+	spacing:			0;
+	children:			[case-indicator, prompt, entry];
+}
+
+#case-indicator {
+	background-color:	@dark;
+	text-color:			@tx;
+}
+
+#prompt {
+	background-color:	@red;
+	padding:			6;
+	text-color:			@tx2;
+}
+
+#entry {
+	background-color:	@bg;
+	text-color:			@tx;
+	padding:			6;
+}
+
+#listview {
+	background-color:	@darker;
+	scrollbar:			true;
+}
+
+#element {
+	padding:			4;
+	margin:				0;
+}
+
+#element.normal.normal {
+    background-color: 	@darker;
+    text-color:       	@tx;
+}
+
+#element.normal.urgent {
+    background-color: 	@darker;
+    text-color:       	@red;
+}
+
+#element.normal.active {
+    background-color: 	@dark;
+    text-color:       	@bg;
+}
+
+#element.selected.normal {
+    background-color: 	@blue;
+    text-color:       	@tx;
+}
+
+#element.selected.urgent {
+    background-color: 	@red;
+    text-color:       	@tx2;
+}
+
+#element.selected.active {
+    background-color: 	@blue;
+    text-color:       	@tx;
+    border:				1;
+    border-color:		@blue;
+}
+
+#element.alternate.normal {
+    background-color: 	@darker;
+    text-color:       	@tx;
+}
+
+#element.alternate.urgent {
+    background-color: 	@darker;
+    text-color:       	@red;
+}
+
+#element.alternate.active {
+    background-color: 	@dark;
+    text-color:       	@bg;
+}
+
+#scrollbar {
+	background-color:	@dark;
+	handle-width:		8;
+	handle-color:		@blue;
+}
+
+#mode-switcher {
+	background-color: 	@darker;
+	margin: 			2;
+	padding:			0;
+}
+
+#button.normal.normal {
+	background-color:	@bg;
+	text-color:			@tx; 	
+}
+
+#button.selected.normal {
+	background-color: 	@blue;
+	text-color:			@tx;
+}

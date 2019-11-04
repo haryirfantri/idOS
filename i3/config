@@ -9,15 +9,15 @@ font pango:Product Sans Bold 10
 title_align left
 
 # basic app
-bindsym $mod+Shift+t exec i3-sensible-terminal
-bindsym $mod+Shift+f exec nemo
-bindsym $mod+Shift+b exec opera
+bindsym $mod+Shift+t exec termite -c ~/idOS/termite
+bindsym $mod+Shift+f exec pcmanfm
+bindsym $mod+Shift+b exec firefox
 
 # start menu
 bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
 
 # Search (dmenu)
-bindsym $mod+space exec rofi -show run
+bindsym $mod+space exec rofi -location 8 -theme ~/idOS/rofi.rasi -show drun -show-icons -icon-theme Qogir-dark
 
 # kill window
 bindsym $mod+q kill
@@ -56,13 +56,13 @@ bindsym $mod+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do 
 
 # i3bar
 bar {
-	status_command i3status --config ~/.config/i3/i3status.conf
+	status_command i3status --config ~/idOS/i3/i3status.conf
 	position top
 	mode hide
 	hidden_state hide	
 	tray_output primary
 	tray_padding 0
-	font pango:Noto Sans Light 9
+	font pango:Noto Sans Regular 9
 	workspace_buttons no
 	colors {
            background #282A33
@@ -85,12 +85,12 @@ client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
 client.background       #ffffff
 
 # startup application
-exec --no-startup-id xfsettingsd
 exec --no-startup-id nm-applet
-exec --no-startup-id xfce4-power-manager
+# exec --no-startup-id xfce4-power-manager
 exec --no-startup-id nitrogen --restore
-exec_always --no-startup-id ~/.config/i3/alternating_layouts.py
-exec --no-startup-id compton --config ~/.config/i3/compton.conf
+# exec_always --no-startup-id ~/idOS/i3/alternating_layouts.py
+exec --no-startup-id compton --config ~/idOS/compton.conf
+# exec --no-startup-id pcmanfm --desktop
 
 # volume control
 bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 0 +5%
@@ -104,7 +104,7 @@ bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 
 # Touchpad controls
-bindsym XF86TouchpadToggle exec ~/.config/i3/toggletouchpad.sh
+bindsym XF86TouchpadToggle exec ~/idOS/i3/toggletouchpad.sh
 
 # Special window configuration
 for_window [title="Peppermint Settings Panel"] floating enable
