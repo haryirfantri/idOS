@@ -1,5 +1,5 @@
 compton --config ~/idOS/compton.conf &
 pcmanfm --desktop &
-tint2 -c ~/idOS/tint2 &
-pasystray &
-nm-applet &
+tint2 -c ~/idOS/tint2-2 &
+# pasystray &
+# nm-applet &

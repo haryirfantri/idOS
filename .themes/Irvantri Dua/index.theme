@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Irfantri Dua
+Comment=A theme based on Vestica
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Irfantri Dua
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close

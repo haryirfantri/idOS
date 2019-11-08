@@ -5,14 +5,16 @@
  ***********************************************/
 
 * {
-	dark:				#404552;
-	darker:				#383C4A;
+	dark:				#0c0d18;
+	darker:				#0c0d18;
 	darkest:			#181920;
 	bg:					#919191;
-	red:				#FD7980;
-	blue:				#1A748F;
-	tx:					#ffffff;
-	tx2:				#1F252A;
+	red:				#116258;
+	blue:				#021f47;
+	blue2:				#103b89;
+	tx:					#979bab;
+	tx2:				#9c9c9c;
+	tx3:				#1c1c1c;
 	line:				#cecece;
 	font:				"Open Sans 10";
 }
@@ -53,7 +55,7 @@
 
 #entry {
 	background-color:	@bg;
-	text-color:			@tx;
+	text-color:			@tx3;
 	padding:			6;
 }
 
@@ -116,7 +118,7 @@
 
 #scrollbar {
 	background-color:	@dark;
-	handle-width:		8;
+	handle-width:		5;
 	handle-color:		@blue;
 }
 
@@ -127,11 +129,11 @@
 }
 
 #button.normal.normal {
-	background-color:	@bg;
-	text-color:			@tx; 	
+	background-color:	@blue2;
+	text-color:			@tx2; 	
 }
 
 #button.selected.normal {
-	background-color: 	@blue;
-	text-color:			@tx;
+	background-color: 	@red;
+	text-color:			@tx2;
 }

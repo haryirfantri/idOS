@@ -42,8 +42,8 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>Irvantri Arc</name>
-    <titleLayout>NLSIMC</titleLayout>
+    <name>Irvantri Dua</name>
+    <titleLayout>LSIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
       N: window icon
@@ -60,7 +60,7 @@
       <name>Noto Sans</name>
       <size>10</size>
       <!-- font size in points -->
-      <weight>Bold</weight>
+      <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
       <slant>Normal</slant>
       <!-- 'italic' or 'normal' -->
@@ -317,30 +317,30 @@
     </keybind>
     <!-- Keybindings for running applications -->
     <keybind key="W-c">
-    	<action name="Reconfigure"/>
+      <action name="Reconfigure"/>
     </keybind>
     <keybind key="W-r">
-    	<action name="Restart"/>
+      <action name="Restart"/>
     </keybind>
     <keybind key="W-space">
-    	<action name="Execute">
-    		<command>rofi -location 8 -theme ~/idOS/rofi.rasi -show drun -show-icons -icon-theme Qogir-dark</command>
-    	</action>
+      <action name="Execute">
+        <command>rofi -location 4 -theme ~/idOS/rofi.rasi -show drun -show-icons -icon-theme Qogir-dark</command>
+      </action>
     </keybind>
     <keybind key="W-S-t">
-    	<action name="Execute">
-    		<command>termite -c ~/idOS/termite</command>
-    	</action>
+      <action name="Execute">
+        <command>termite -c ~/idOS/termite</command>
+      </action>
     </keybind>
     <keybind key="W-S-f">
-    	<action name="Execute">
-    		<command>pcmanfm</command>
-    	</action>
+      <action name="Execute">
+        <command>pcmanfm</command>
+      </action>
     </keybind>
     <keybind key="W-S-b">
-    	<action name="Execute">
-    		<command>firefox</command>
-    	</action>
+      <action name="Execute">
+        <command>firefox</command>
+      </action>
     </keybind>
     <keybind key="XF86AudioRaiseVolume">
       <action name="Execute">
@@ -705,7 +705,7 @@
     <!-- You can specify more than one menu file in here and they are all loaded,
        just don't make menu ids clash or, well, it'll be kind of pointless -->
     <!-- default menu file (or custom one in $HOME/.config/openbox/) -->
-    <file>menu.xml</file>
+    <file>~/.config/openbox/menu.xml</file>
     <hideDelay>200</hideDelay>
     <!-- if a press-release lasts longer than this setting (in milliseconds), the
        menu is hidden again -->
