@@ -712,7 +712,7 @@
        width="26"
        height="24"
        id="rect165"
-       style="opacity:1;fill:#07090E" />
+       style="opacity:1;fill:#0B0F15" />
     <rect
        x="-2"
        y="-278.64001"
@@ -721,7 +721,7 @@
        rx="2.5"
        ry="2.5"
        id="rect167"
-       style="opacity:1;fill:#07090E" />
+       style="opacity:1;fill:#0B0F15" />
     <rect
        x="-2.5"
        y="-279.14001"
@@ -730,7 +730,7 @@
        rx="3"
        ry="3"
        id="rect169"
-       style="opacity:1;fill:none;stroke:#07090E" />
+       style="opacity:1;fill:none;stroke:#0B0F15" />
   </g>
   <g
      id="entry-active-bg"
@@ -759,7 +759,7 @@
        rx="3"
        ry="3"
        id="rect176"
-       style="fill:#07090E;stroke:url(#t)" />
+       style="fill:#0B0F15;stroke:url(#t)" />
   </g>
   <g
      id="entry-disabled-bg"
@@ -770,7 +770,7 @@
        width="26"
        height="24"
        id="rect179"
-       style="fill:#07090e" />
+       style="fill:#0B0F15" />
     <rect
        x="66"
        y="-278.64001"
@@ -779,7 +779,7 @@
        rx="2.5"
        ry="2.5"
        id="rect181"
-       style="fill:#07090e" />
+       style="fill:#0B0F15" />
     <rect
        x="65.5"
        y="-279.14001"
@@ -801,7 +801,7 @@
        rx="0"
        ry="0"
        id="rect186"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        x="-2.5"
        y="-279.14001"
@@ -810,7 +810,7 @@
        rx="3"
        ry="3"
        id="rect188"
-       style="fill:none;stroke:#07090E" />
+       style="fill:none;stroke:#0B0F15" />
     <rect
        x="-2"
        y="-278.64001"
@@ -819,7 +819,7 @@
        rx="2.5"
        ry="2.5"
        id="rect190"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
   </g>
   <g
      id="entry-active-notebook"
@@ -850,7 +850,7 @@
        rx="2.5"
        ry="2.5"
        id="rect197"
-       style="fill:#07090e" />
+       style="fill:#0B0F15" />
   </g>
   <g
      id="entry-disabled-notebook"
@@ -872,7 +872,7 @@
        rx="2.5"
        ry="2.5"
        id="rect202"
-       style="fill:#07090e" />
+       style="fill:#0B0F15" />
     <rect
        x="65.5"
        y="-279.14001"
@@ -881,7 +881,7 @@
        rx="3"
        ry="3"
        id="rect204"
-       style="fill:none;stroke:#07090e" />
+       style="fill:none;stroke:#0B0F15" />
   </g>
   <g
      id="combo-entry"
@@ -935,7 +935,7 @@
        rx="0"
        ry="0"
        id="rect216"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        x="32"
        y="-278.64001"
@@ -944,7 +944,7 @@
        rx="2.5"
        ry="2.5"
        id="rect218"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        x="31.5"
        y="-279.14001"
@@ -1072,7 +1072,7 @@
        rx="2.5"
        ry="2.5"
        id="rect247"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        x="51"
        y="-278.64001"
@@ -1293,7 +1293,7 @@
        rx="0"
        ry="0"
        id="rect299"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        x="31.5"
        y="-279.14001"
@@ -1312,7 +1312,7 @@
        rx="2.5"
        ry="2.5"
        id="rect303"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        transform="scale(-1,1)"
        x="-52"
@@ -1439,7 +1439,7 @@
        rx="2.5"
        ry="2.5"
        id="rect330"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        transform="scale(-1,1)"
        x="-52"
@@ -2657,7 +2657,7 @@
        id="rect651"
        x="0"
        y="0"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        transform="translate(0,1022.4)"
        x="1"
@@ -2667,7 +2667,7 @@
        rx="1.3878e-16"
        ry="1.3878e-16"
        id="rect653"
-       style="fill:#07090E;stroke-width:0" />
+       style="fill:#0B0F15;stroke-width:0" />
   </g>
   <g
      id="tab-right-active"
@@ -2680,7 +2680,7 @@
        id="rect656"
        x="0"
        y="0"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        transform="translate(0,1022.4)"
        x="1"
@@ -2690,7 +2690,7 @@
        rx="1.3878e-16"
        ry="1.3878e-16"
        id="rect658"
-       style="fill:#07090E;stroke-width:0" />
+       style="fill:#0B0F15;stroke-width:0" />
   </g>
   <g
      id="tab-bottom-active"
@@ -2703,7 +2703,7 @@
        id="rect661"
        x="0"
        y="0"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        transform="translate(0,1022.4)"
        x="1"
@@ -2713,7 +2713,7 @@
        rx="1.3878e-16"
        ry="1.3878e-16"
        id="rect663"
-       style="fill:#07090E;stroke-width:0" />
+       style="fill:#0B0F15;stroke-width:0" />
   </g>
   <g
      id="tab-left-active"
@@ -2726,7 +2726,7 @@
        id="rect666"
        x="0"
        y="0"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        transform="translate(0,1022.4)"
        x="1"
@@ -2736,7 +2736,7 @@
        rx="1.3878e-16"
        ry="1.3878e-16"
        id="rect668"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
   </g>
   <g
      id="notebook-gap-horiz"
@@ -2784,8 +2784,8 @@
      width="23"
      height="33"
      clip-path="url(#v)"
-     fill="#07090E"
-     stroke="#07090E" />
+     fill="#0B0F15"
+     stroke="#0B0F15" />
   <g
      id="toolbar"
      transform="translate(11)">
@@ -2795,14 +2795,14 @@
        width="24"
        height="32"
        id="rect682"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        x="437"
        y="142"
        width="24"
        height="1"
        id="rect684"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
   </g>
   <g
      id="tree_header"
@@ -2813,14 +2813,14 @@
        width="10"
        height="28"
        id="rect687"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        x="419"
        y="-87.638"
        width="1"
        height="28"
        id="rect689"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
   </g>
   <rect
      id="null"
@@ -2864,7 +2864,7 @@
        rx="0"
        ry="0"
        id="rect698"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        x="-2.5"
        y="-279.14001"
@@ -2873,7 +2873,7 @@
        rx="3"
        ry="3"
        id="rect700"
-       style="fill:none;stroke:#07090E" />
+       style="fill:none;stroke:#0B0F15" />
     <rect
        x="-2"
        y="-278.64001"
@@ -2882,7 +2882,7 @@
        rx="2.5"
        ry="2.5"
        id="rect702"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
   </g>
   <g
      id="entry-active-toolbar"
@@ -2895,7 +2895,7 @@
        rx="0"
        ry="0"
        id="rect705"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        x="31.5"
        y="-279.14001"
@@ -2913,7 +2913,7 @@
        rx="2.5"
        ry="2.5"
        id="rect709"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
   </g>
   <g
      id="entry-disabled-toolbar"
@@ -2926,7 +2926,7 @@
        rx="0"
        ry="0"
        id="rect712"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        x="66"
        y="-278.64001"
@@ -2935,7 +2935,7 @@
        rx="2.5"
        ry="2.5"
        id="rect714"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        x="65.5"
        y="-279.14001"
@@ -2944,7 +2944,7 @@
        rx="3"
        ry="3"
        id="rect716"
-       style="fill:none;stroke:#07090E" />
+       style="fill:none;stroke:#0B0F15" />
   </g>
   <g
      id="menubar"
@@ -2955,14 +2955,14 @@
        width="24"
        height="32"
        id="rect719"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        x="437"
        y="142"
        width="24"
        height="1"
        id="rect721"
-       style="opacity:0.1;fill:#07090E" />
+       style="opacity:0.1;fill:#0B0F15" />
   </g>
   <rect
      id="frame"
@@ -2972,7 +2972,7 @@
      height="9"
      fill="#1c1c1c"
      stroke="#4a4e58"
-     style="fill:#07090E;fill-opacity:1;stroke:#07090E;stroke-opacity:1" />
+     style="fill:#0B0F15;fill-opacity:1;stroke:#0B0F15;stroke-opacity:1" />
   <g
      id="line-v"
      transform="rotate(-90,423.82,-42.819)">
@@ -3016,7 +3016,7 @@
      width="2"
      height="1"
      fill="#4a4e58"
-     style="fill:#07090E;fill-opacity:1" />
+     style="fill:#0B0F15;fill-opacity:1" />
   <rect
      id="frame-gap-start"
      x="447"
@@ -3024,7 +3024,7 @@
      width="2"
      height="1"
      fill="#4a4e58"
-     style="fill:#07090E;fill-opacity:1" />
+     style="fill:#0B0F15;fill-opacity:1" />
   <rect
      id="focus-line"
      transform="rotate(90)"
@@ -3222,7 +3222,7 @@
        height="15"
        rx="0"
        ry="0"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        transform="rotate(-90)"
        x="-107.36"
@@ -3230,7 +3230,7 @@
        width="15"
        height="0.99998999"
        id="rect779"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
   </g>
   <g
      id="trough-scrollbar-horiz"
@@ -3243,7 +3243,7 @@
        rx="0"
        ry="0"
        id="rect782"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        transform="rotate(-90)"
        x="-107.36"
@@ -3251,7 +3251,7 @@
        width="15"
        height="0.99998999"
        id="rect784"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
   </g>
   <g
      id="slider-vert-insens"
@@ -3304,13 +3304,13 @@
        d="m -4,-280.64 v 26 h 28 v -26 H -3 Z m 2,2 h 24 v 22 H -2 Z"
        id="path797"
        inkscape:connector-curvature="0"
-       style="fill:#07090e" />
+       style="fill:#0B0F15" />
     <path
        transform="translate(-113,-345.64)"
        d="m 110,66 v 24 h 26 V 66 Z m 3.5,1 h 19 c 1.385,0 2.5,1.115 2.5,2.5 v 17 c 0,1.385 -1.115,2.5 -2.5,2.5 h -19 c -1.385,0 -2.5,-1.115 -2.5,-2.5 v -17 c 0,-1.385 1.115,-2.5 2.5,-2.5 z"
        id="path799"
        inkscape:connector-curvature="0"
-       style="fill:#07090e" />
+       style="fill:#0B0F15" />
     <rect
        x="-2.5"
        y="-279.14001"
@@ -3328,13 +3328,13 @@
        d="m 30,-280.64 v 26 h 28 v -26 H 31 Z m 2,2 h 24 v 22 H 32 Z"
        id="path804"
        inkscape:connector-curvature="0"
-       style="fill:#07090e" />
+       style="fill:#0B0F15" />
     <path
        transform="translate(-113,-345.64)"
        d="m 144,66 v 24 h 26 V 66 Z m 3.5,1 h 19 c 1.385,0 2.5,1.115 2.5,2.5 v 17 c 0,1.385 -1.115,2.5 -2.5,2.5 h -19 c -1.385,0 -2.5,-1.115 -2.5,-2.5 v -17 c 0,-1.385 1.115,-2.5 2.5,-2.5 z"
        id="path806"
        inkscape:connector-curvature="0"
-       style="fill:#07090e" />
+       style="fill:#0B0F15" />
     <rect
        x="31.5"
        y="-279.14001"
@@ -3353,7 +3353,7 @@
      height="18"
      rx="2.7756e-17"
      ry="2.7756e-17"
-     fill="#07090E" />
+     fill="#0B0F15" />
   <rect
      id="entry-background-disabled"
      x="86"
@@ -3363,7 +3363,7 @@
      rx="2.7756e-17"
      ry="2.7756e-17"
      fill="#333641"
-     style="fill:#07090E;fill-opacity:1" />
+     style="fill:#0B0F15;fill-opacity:1" />
   <g
      id="combo-entry-border"
      transform="translate(168,452.64)"
@@ -3401,7 +3401,7 @@
        d="m -43,149 v 24 h 26 v -24 z m 3,1 h 18 c 1.108,0 2,0.892 2,2 v 18 c 0,1.108 -0.892,2 -2,2 h -18 c -1.108,0 -2,-0.892 -2,-2 v -18 c 0,-1.108 0.892,-2 2,-2 z"
        id="path820"
        inkscape:connector-curvature="0"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        x="-2.5"
        y="-279.14001"
@@ -3456,7 +3456,7 @@
        d="m -43,149 v 24 h 26 v -24 z m 3,1 h 18 c 1.108,0 2,0.892 2,2 v 18 c 0,1.108 -0.892,2 -2,2 h -18 c -1.108,0 -2,-0.892 -2,-2 v -18 c 0,-1.108 0.892,-2 2,-2 z"
        id="path834"
        inkscape:connector-curvature="0"
-       style="fill:#07090E" />
+       style="fill:#0B0F15" />
     <rect
        x="-2.5"
        y="-279.14001"

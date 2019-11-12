@@ -2,7 +2,7 @@
 Type=Application
 Version=1.0
 Name=LogOut
-Exec=/usr/bin/oblogout
+Exec=powermenu
 Icon=system-log-out
 Categories=System;
 Path=

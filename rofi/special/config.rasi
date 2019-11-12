@@ -1,0 +1,10 @@
+configuration {
+  show-icons:         true;
+  icon-theme:         "Qogir dark";
+  cycle:              true;
+  hide-scrollbar:     false;
+  disable-history:    false;
+  modi:               "drun";
+  display-drun:       "apps";
+  columns: 2;
+}

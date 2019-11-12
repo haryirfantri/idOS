@@ -324,7 +324,7 @@
     </keybind>
     <keybind key="W-space">
       <action name="Execute">
-        <command>rofi -location 7 -theme ~/idOS/rofi/tiga.rasi -show drun -show-icons -icon-theme Qogir-dark</command>
+        <command>appsmenu</command>
       </action>
     </keybind>
     <keybind key="W-S-t">

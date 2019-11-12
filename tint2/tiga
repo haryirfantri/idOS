@@ -8,7 +8,7 @@ border_width = 0
 border_sides = 
 border_content_tint_weight = 0
 background_content_tint_weight = 0
-background_color = #07090E 100
+background_color = #0B0F15 100
 border_color = #000000 0
 background_color_hover = #000000 0
 border_color_hover = #000000 0
@@ -21,7 +21,7 @@ border_width = 0
 border_sides = TBLR
 border_content_tint_weight = 0
 background_content_tint_weight = 0
-background_color = #07090E 100
+background_color = #0B0F15 100
 border_color = #777777 0
 background_color_hover = #021F47 100
 border_color_hover = #e8eef5 0
@@ -73,11 +73,11 @@ border_width = 0
 border_sides = R
 border_content_tint_weight = 0
 background_content_tint_weight = 0
-background_color = #37075E 100
+background_color = #021F47 100
 border_color = #e8e8e8 55
-background_color_hover = #32343d 100
+background_color_hover = #021F47 100
 border_color_hover = #e8eef5 0
-background_color_pressed = #215d9c 100
+background_color_pressed = #021F47 100
 border_color_pressed = #eaeaea 44
 
 # Background 7: Systray
@@ -86,11 +86,11 @@ border_width = 0
 border_sides = L
 border_content_tint_weight = 0
 background_content_tint_weight = 0
-background_color = #5E072B 100
+background_color = #84274D 100
 border_color = #e8e8e8 55
-background_color_hover = #5E072B 100
+background_color_hover = #84274D 100
 border_color_hover = #e8eef5 0
-background_color_pressed = #5E072B 100
+background_color_pressed = #84274D 100
 border_color_pressed = #eaeaea 44
 
 # Background 8: Clock
@@ -99,11 +99,11 @@ border_width = 0
 border_sides = TBLR
 border_content_tint_weight = 0
 background_content_tint_weight = 0
-background_color = #5E072B 100
+background_color = #84274D 100
 border_color = #777777 0
-background_color_hover = #5E072B 100
+background_color_hover = #84274D 100
 border_color_hover = #e8eef5 0
-background_color_pressed = #5E072B 100
+background_color_pressed = #84274D 100
 border_color_pressed = #eaeaea 44
 
 #-------------------------------------
@@ -198,6 +198,7 @@ launcher_icon_theme_override = 0
 startup_notifications = 1
 launcher_tooltip = 1
 launcher_item_app = ~/.local/share/applications/Launcher.desktop
+launcher_item_app = ~/.local/share/applications/logout.desktop
 
 #-------------------------------------
 # Clock

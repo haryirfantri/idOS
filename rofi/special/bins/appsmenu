@@ -1,0 +1,4 @@
+#!/bin/sh
+
+rofi -no-lazy-grab -location 7 -show drun -theme themes/appsmenu.rasi
+
