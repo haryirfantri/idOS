@@ -1,5 +1,6 @@
-compton --config ~/idOS/compton.conf &
+compton --config ~/idOS/compton/compton.conf &
 pcmanfm --desktop &
-tint2 -c ~/idOS/tint2-2 &
-# pasystray &
+tint2 -c ~/idOS/tint2/tiga &
+pulseaudio --daemonize &
+pasystray &
 # nm-applet &

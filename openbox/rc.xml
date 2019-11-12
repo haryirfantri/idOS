@@ -42,7 +42,7 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>Irvantri Dua</name>
+    <name>Irvantri Tiga</name>
     <titleLayout>LSIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -60,7 +60,7 @@
       <name>Noto Sans</name>
       <size>10</size>
       <!-- font size in points -->
-      <weight>Normal</weight>
+      <weight>Bold</weight>
       <!-- 'bold' or 'normal' -->
       <slant>Normal</slant>
       <!-- 'italic' or 'normal' -->
@@ -324,12 +324,12 @@
     </keybind>
     <keybind key="W-space">
       <action name="Execute">
-        <command>rofi -location 4 -theme ~/idOS/rofi.rasi -show drun -show-icons -icon-theme Qogir-dark</command>
+        <command>rofi -location 7 -theme ~/idOS/rofi/tiga.rasi -show drun -show-icons -icon-theme Qogir-dark</command>
       </action>
     </keybind>
     <keybind key="W-S-t">
       <action name="Execute">
-        <command>termite -c ~/idOS/termite</command>
+        <command>urxvt</command>
       </action>
     </keybind>
     <keybind key="W-S-f">

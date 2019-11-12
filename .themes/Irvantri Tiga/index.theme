@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Irfantri Tiga
+Comment=A theme based on Vestica and Qogir
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Irfantri Tiga
+IconTheme=Qogir-dark
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close

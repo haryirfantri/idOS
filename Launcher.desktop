@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Version=1.0
-Name=Launcher
-Exec=rofi -location 8 -theme ~/idOS/rofi.rasi -show drun -show-icons -icon-theme Qogir-dark
-Icon=start-here
-Categories=System;
-Name[en_GB]=launcher
