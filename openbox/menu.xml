@@ -14,12 +14,7 @@
 		</item>
 		<item label="File manager" icon="/usr/share/icons/Qogir-dark/scalable/apps/file-manager.svg">
 			<action name="Execute">
-				<execute>urxvt -e ranger</execute>
-			</action>
-		</item>
-		<item label="Network" icon="/usr/share/icons/Qogir-dark/scalable/devices/network-wireless.svg">
-			<action name="Execute">
-				<execute>urxvt -e sudo wifi-menu</execute>
+				<execute>pcmanfm</execute>
 			</action>
 		</item>
 		<item label="Task manager" icon="/usr/share/icons/Qogir-dark/scalable/apps/system-monitor.svg">

@@ -1,37 +1,37 @@
 !! Colorscheme
 
 ! special
-*.foreground:   #B4B4B4
-*.background:   #0B0F15
-*.cursorColor:  #a7aab8
+*.foreground:   #3F4B59
+*.background:   #F5FAFB
+*.cursorColor:  #EB96B9
 
 ! black
-*.color0:       #B4B4B4
-*.color8:       #1F2734
+*.color0:       #3F4B59
+*.color8:       #8C9BAE
 
 ! red
-*.color1:       #8B0B14
-*.color9:       #C70910
+*.color1:       #F68879
+*.color9:       #C8240D
 
 ! green
-*.color2:       #075E3C
-*.color10:      #0EB574
+*.color2:       #44BEBC
+*.color10:      #205C5B
 
 ! yellow
-*.color3:       #8A8B0B
-*.color11:      #D3D511
+*.color3:       #EBB281
+*.color11:      #E08537
 
 ! blue
-*.color4:       #04459E
-*.color12:      #021F47
+*.color4:       #74BDC6
+*.color12:      #38818A
 
 ! magenta
-*.color5:       #37075E
-*.color13:      #660DAE
+*.color5:       #EB96B9
+*.color13:      #AA2059
 
 ! cyan
-*.color6:       #073C5E
-*.color14:      #0774B9
+*.color6:       #0774B9
+*.color14:      #073C5E
 
 ! white
 *.color7:       #D3D3D3

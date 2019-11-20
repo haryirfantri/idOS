@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Version=1.0
-Name=File Manager
-Exec=urxvt -e ranger
-Icon=system-file-manager
-Categories=System;

@@ -42,7 +42,7 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>Irvantri Tiga</name>
+    <name>Irvantri Light</name>
     <titleLayout>LSIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -324,7 +324,7 @@
     </keybind>
     <keybind key="W-space">
       <action name="Execute">
-        <command>appsmenu</command>
+        <command>rofi -show drun -config ~/idOS/rofi/light.rasi -location 0 -show-icons</command>
       </action>
     </keybind>
     <keybind key="W-S-t">

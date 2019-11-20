@@ -9,15 +9,15 @@ font pango:Product Sans Bold 10
 title_align left
 
 # basic app
-bindsym $mod+Shift+t exec termite -c ~/idOS/termite
+bindsym $mod+Shift+t exec urxvt
 bindsym $mod+Shift+f exec pcmanfm
-bindsym $mod+Shift+b exec firefox
+bindsym $mod+Shift+b exec opera
 
 # start menu
 bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
 
 # Search (dmenu)
-bindsym $mod+space exec rofi -location 8 -theme ~/idOS/rofi.rasi -show drun -show-icons -icon-theme Qogir-dark
+bindsym $mod+space exec appsmenu
 
 # kill window
 bindsym $mod+q kill
@@ -71,8 +71,8 @@ bar {
         }
 }
 
-for_window [class=".*"] border pixel 0
-hide_edge_borders both
+# for_window [class=".*"] border pixel 0
+# hide_edge_borders both
 gaps inner 8
 
 # class                 border  backgr. text    indicator child_border

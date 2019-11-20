@@ -2,7 +2,7 @@
 Type=Application
 Version=1.0
 Name=Launcher
-Exec=appsmenu
-Icon=start-here
+Exec=rofi -show drun -show-icons -config ~/idOS/rofi/light.rasi -m -3
+Icon=/home/haryirfantri/idOS/Logos/plus.svg
 Categories=System;
-Name[en_GB]=launcher
+Name[en_GB]=New app
