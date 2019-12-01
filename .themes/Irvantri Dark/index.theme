@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Irvantri Dark
+Comment=A theme based on Qogir
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Irfantri Dark
+IconTheme=Qogir-dark
+CursorTheme=Breeze
+ButtonLayout=menu:minimize,maximize,close

@@ -42,7 +42,7 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>Irvantri Light</name>
+    <name>Irvantri Dark</name>
     <titleLayout>LSIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -324,7 +324,7 @@
     </keybind>
     <keybind key="W-space">
       <action name="Execute">
-        <command>rofi -show drun -config ~/idOS/rofi/light.rasi -location 0 -show-icons</command>
+        <command>launcher</command>
       </action>
     </keybind>
     <keybind key="W-S-t">
@@ -727,6 +727,9 @@
     <!-- show the manage desktops section in the client-list-(combined-)menu -->
   </menu>
   <applications>
+    <application class="Opera">
+      <decor>yes</decor>
+    </application>
     <!--
   # this is an example with comments through out. use these to make your
   # own rules, but without the comments of course.

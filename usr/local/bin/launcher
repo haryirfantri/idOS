@@ -1,0 +1,2 @@
+#!/bin/sh
+rofi -show drun -show-icons -config ~/idOS/rofi/dark.rasi -location 3 -sidebar-mode -lines 21 -width 30% &

@@ -1,0 +1,136 @@
+/************************************************
+ * ROFI Color theme
+ * User: haryirfantri
+ * Copyright: 2019 haryirfantri
+ ***********************************************/
+
+* {
+	bg:					#182330;
+	alt:				#767B87;
+	input:				#2D425B;
+	accent:				#12A1B4;
+	accent2:			#7C2C9D;
+	red:				#C61E3F;
+	tx:					#F6F8F8;
+	font:				"Noto Sans 10";
+}
+
+#window {
+	background-color:	@bg;
+	border:				0;
+	padding:			0;
+}
+
+#mainbox {
+    background-color:	@bg;
+    border:  			0;
+    padding: 			0;
+    children:			[inputbar, message, listview, mode-switcher];
+}
+
+#inputbar {
+	background-color:	@accent;
+	margin:				20;
+	border:				0;
+	spacing:			0;
+	children:			[case-indicator, prompt, entry];
+}
+
+#case-indicator {
+	background-color:	@bg;
+	text-color:			@tx;
+}
+
+#prompt {
+	background-color:	@accent2;
+	padding:			6;
+	text-color:			@tx;
+}
+
+#entry {
+	background-color:	@input;
+	text-color:			@tx;
+	padding:			6;
+}
+
+#listview {
+	background-color:	@bg;
+	scrollbar:			true;
+	padding:			0 8 5 8;
+	dynamic:			true;
+}
+
+#element {
+	padding:			4;
+	margin:				2;
+}
+
+#element.normal.normal {
+    background-color: 	@bg;
+    text-color:       	@tx;
+}
+
+#element.normal.urgent {
+    background-color: 	@bg;
+    text-color:       	@red;
+}
+
+#element.normal.active {
+    background-color: 	@alt;
+    text-color:       	@tx;
+}
+
+#element.selected.normal {
+    background-color: 	@accent;
+    text-color:       	@bg;
+}
+
+#element.selected.urgent {
+    background-color: 	@red;
+    text-color:       	@bg;
+}
+
+#element.selected.active {
+    background-color: 	@accent;
+    text-color:       	@bg;
+    border:				1;
+    border-color:		@alt;
+}
+
+#element.alternate.normal {
+    background-color: 	@bg;
+    text-color:       	@tx;
+}
+
+#element.alternate.urgent {
+    background-color: 	@bg;
+    text-color:       	@red;
+}
+
+#element.alternate.active {
+    background-color: 	@accent;
+    text-color:       	@bg;
+}
+
+#scrollbar {
+	background-color:	@input;
+	handle-width:		7;
+	handle-color:		@alt;
+}
+
+#mode-switcher {
+	background-color: 	@bg;
+	margin: 			0;
+	padding:			0;
+	orientation:		horizontal;
+}
+
+#button.normal.normal {
+	background-color:	@alt;
+	text-color:			@bg;
+}
+
+#button.selected.normal {
+	background-color: 	@accent2;
+	text-color:			@tx;
+}
