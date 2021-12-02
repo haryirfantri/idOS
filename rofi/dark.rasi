@@ -19,6 +19,7 @@
 	background-color:	@bg;
 	border:				0;
 	padding:			0;
+	fullscreen:			true;
 }
 
 #mainbox {
@@ -57,7 +58,7 @@
 	background-color:	@bg;
 	scrollbar:			true;
 	padding:			0 8 5 8;
-	dynamic:			true;
+	fixed-height:		true;
 }
 
 #element {

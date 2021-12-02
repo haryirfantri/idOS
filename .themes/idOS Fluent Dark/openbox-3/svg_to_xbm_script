@@ -1,0 +1,1 @@
+convert '*.svg' -set filename:fn '%[basename]' -liquid-rescale 90% '%[filename:fn].xbm'
